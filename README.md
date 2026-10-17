@@ -15,7 +15,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · Jupyter No
 ## 📊 Dataset
 
 - **Size:** 109 patient records
-- **Source:** [add the dataset source here, e.g. UCI Heart Disease dataset via Kaggle]
+- **Source:** [** Heart disease dataset provided in a machine learning bootcamp ]
 - **Features:** Age, Sex, Chest Pain, Resting Blood Pressure, Cholesterol, Maximum Heart Rate, Exercise-Induced Angina, Oldpeak
 - **Target:** Heart Disease (present or not)
 
